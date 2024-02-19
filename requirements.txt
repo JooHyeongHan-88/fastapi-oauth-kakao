@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+streamlit
+streamlit-extras
+streamlit-base-extras
